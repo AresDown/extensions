@@ -25884,13 +25884,13 @@
         "name": "Manga Livre",
         "packageName": "eu.kanade.tachiyomi.extension.pt.mangalivre",
         "resources": {
-          "apkUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions@repo/apk/tachiyomi-pt.mangalivre-v1.4.80.apk",
+          "apkUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions@repo/apk/tachiyomi-pt.mangalivre-v1.4.81.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions@repo/icon/eu.kanade.tachiyomi.extension.pt.mangalivre.png",
-          "jarUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/jar/tachiyomi-pt.mangalivre-v1.4.80.jar"
+          "jarUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/repo/jar/tachiyomi-pt.mangalivre-v1.4.81.jar"
         },
         "extensionLib": "1.4",
-        "versionCode": "80",
-        "versionName": "1.4.80",
+        "versionCode": "81",
+        "versionName": "1.4.81",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
